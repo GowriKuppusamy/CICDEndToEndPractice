@@ -12,4 +12,8 @@ public class Demo1Test extends Demo1 {
     public void testCase2(){
         sort("HELLO");
     }
+    @Test
+    public void testCase3(){
+        print("Executed successfully for CICI");
+    }
 }

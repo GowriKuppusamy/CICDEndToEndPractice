@@ -17,4 +17,8 @@ public class Demo1 {
 
 
     }
+    public void print(String input) {
+        System.out.println(input);
+    }
+
 }
