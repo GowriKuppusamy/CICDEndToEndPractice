@@ -1,6 +1,6 @@
 package org.example;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class Demo1Test extends Demo1 {
     @Test
