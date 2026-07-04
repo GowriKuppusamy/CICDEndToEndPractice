@@ -20,5 +20,10 @@ public class Demo1 {
     public void print(String input) {
         System.out.println(input);
     }
+    public void findMax(int[] input) {
+        Arrays.sort(input);
+        System.out.println(input[input.length-1]);
+
+    }
 
 }

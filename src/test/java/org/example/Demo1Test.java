@@ -16,4 +16,8 @@ public class Demo1Test extends Demo1 {
     public void testCase3(){
         print("Executed successfully for CICI");
     }
+    @Test
+    public void testCase4(){
+        findMax(new int[]{12, 23, 34, 43, 32, 21, 65, 9, 876, 56});
+    }
 }
